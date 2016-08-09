@@ -3,6 +3,7 @@
 https://zookeeper.apache.org/doc/r3.3.3/zookeeperOver.html
 https://zookeeper.apache.org/doc/r3.3.3/zookeeperProgrammers.html
 https://zookeeper.apache.org/doc/r3.3.3/javaExample.html
+http://my.oschina.net/xianggao/blog/536432
 
 # 应用场景
 
